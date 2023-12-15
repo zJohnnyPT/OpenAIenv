@@ -1,2 +1,0 @@
-# OpenAIenv
-OpenAI environment Management
